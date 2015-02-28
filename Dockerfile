@@ -2,7 +2,7 @@
 #
 # VERSION 0.0.3
 
-FROM ubuntu:14.04.1
+FROM ubuntu:14.04.2
 MAINTAINER Dariel Dato-on <oddrationale@gmail.com>
 
 RUN apt-get update && \
