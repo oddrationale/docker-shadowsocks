@@ -1,7 +1,7 @@
 docker-shadowsocks
 ==================
 
-This Dockerfile builds an image with the Python implementation of [shadowsocks](https://github.com/shadowsocks/shadowsocks). Based on Ubuntu 14.04 image.
+This Dockerfile builds an image with the Python implementation of [shadowsocks](https://github.com/shadowsocks/shadowsocks). Based on Ubuntu 16.04 image.
 
 Quick Start
 -----------
