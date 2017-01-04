@@ -1,0 +1,5 @@
+shadowsocks:
+  image: oddrationale/docker-shadowsocks
+  ports:
+  - 1984:1984
+  command: -s 0.0.0.0 -p 1984 -k YOURPASSWORD -m aes-256-cfb
