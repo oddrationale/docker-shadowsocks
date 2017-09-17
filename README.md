@@ -12,4 +12,4 @@ This image uses ENTRYPOINT to run the containers as an executable.
 
 You can configure the service to run on a port of your choice. Just make sure the port number given to Docker is the same as the one given to shadowsocks. Also, it is  highly recommended that you store the shadowsocks password in an environment variable as shown above. This way the password will not show in plain text when you run `docker ps`.
 
-For more command line options, refer to the [shadowsocks documentation](https://github.com/shadowsocks/shadowsocks)
+For more command line options, refer to the [shadowsocks documentation](https://github.com/shadowsocks/shadowsocks/tree/master)
